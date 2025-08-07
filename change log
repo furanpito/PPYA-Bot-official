@@ -6,7 +6,10 @@ anti chat
 Ver1.1
 antiraid
 =
-Ver1.2
+Ver1.2 (beta)
 notkeyでもantinukeが動く問題の修正
 おそらくantiraidも動くかと思うので修正を希望
--
+=
+Ver1.2.1 (Release)
+全機能のkey未使用の制限
+コマンドもkey未使用の制限の検討
